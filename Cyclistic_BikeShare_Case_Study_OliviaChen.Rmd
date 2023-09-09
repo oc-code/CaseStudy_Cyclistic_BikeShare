@@ -2,7 +2,7 @@
 title: "Cyclistic Bike-Share Case Study"
 author: "Olivia Chen"
 date: "2023-09-08"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
